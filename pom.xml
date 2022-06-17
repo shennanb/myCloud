@@ -41,7 +41,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.all.version>1.0-SNAPSHOT</project.all.version>
         <mybatis-plus-boot-starter.version>3.2.0</mybatis-plus-boot-starter.version>
-        <fastjson.version>1.2.56</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
